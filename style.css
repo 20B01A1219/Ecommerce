@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+}
+header{
+    color : red;
+    padding-left : 90px;
+    padding-top : 50px;
+}
+p{
+    color : white;
+    font-size: 20px;
+    padding-left : 90px;
+    padding-right: 90px;
+}
+img{
+    height: 200px;
+    width :350px;
+    margin-left : 200px;
+    margin-top: 15px;
+    border : solid white 3px;
+}
+a{
+    color : blue;
+    text-decoration : none;
+}
+ul li{
+    margin-left : 90px;
+    color :white;
+    font-size: 20px;
+}
+li a:hover{
+    color : red;
+    font-size : 25px;
+}
+.inlist{
+    text-decoration : none;
+    color : white;
+}
+.subhead{
+    padding-left : 90px;
+    padding-top : 0px;
+    
+}
+td{
+    width :80%
+}
+td img{
+    margin-right : 10px;   
+}
+.lastimage
+{
+    width : 950px;
+    height : 500px;
+    border :solid red 3px;
+}
